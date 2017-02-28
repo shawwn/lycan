@@ -1,6 +1,6 @@
 {
   "name": "lycan",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A Lisp for Lua and JavaScript",
   "main": "lib/lumen/bin/lumen.js",
   "scripts": {
